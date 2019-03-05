@@ -1,0 +1,23 @@
+{
+	"sEmptyTable":   	"No hay datos en la tabla.",
+	"sInfo":         	"_START_ a _END_ de _TOTAL_ Entradas.",
+	"sInfoEmpty":    	"0 a 0 de 0 Entregas.",
+	"sInfoFiltered": 	"(filtrado por _MAX_ Entradas)",
+	"sInfoPostFix":  	"",
+	"sInfoThousands":  	".",
+	"sLengthMenu":   	"Mostra _MENU_",
+	"sLoadingRecords": 	"Cargando...",
+	"sProcessing":   	"Procesando...",
+	"sSearch":       	"Filtrar:",
+	"sZeroRecords":  	"No se encontraron registros coincidentes.",
+	"oPaginate": {
+		"sFirst":    	"Primera",
+		"sPrevious": 	"Página anterior",
+		"sNext":     	"Siguiente",
+		"sLast":     	"Anteior"
+	},
+	"oAria": {
+		"sSortAscending":  ": habilitar para ordenar la columna en orden ascendente",
+		"sSortDescending": ": habilitar para ordenar la columna en orden descendente"
+	}
+}
